@@ -13,8 +13,8 @@ Dataser link: [**Kaggle**](https://www.kaggle.com/code/moshiurrahmanfaisal/predi
 
 
 
-| Machine Learning Models | Accuracy (%) |   Area Under the Curve (%) |
-| :-------- | :------- | :------- | 
+| **Machine Learning Models** | **Accuracy (%)** |  **Area Under the Curve (%)** 
+| :-------- | :------- | :------- 
 | `SVM` | `76.62%` | `85.27%`
 | `XGBoost` | `89.08%` | `95.25%`
 | `Random Forest` | `96.02%` | `99.55%`
