@@ -1,4 +1,4 @@
-# Predictive Analysis with Explainable AI
+# Telco Churn Prediction and Explainability with AI
 
 Telco data in tabular format was used to predict the output label. This notebook contains data cleaning, visualizing, and machine learning approaches to predict the output label. After predicting the label, Explainable AI was used to explain the model output. 
 
